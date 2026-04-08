@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Pro Fence Company Chicago",
+    "phone": "+17089800158",
+    "category": "fence contractor",
+    "city": "Chicago",
+    "state": "IL"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Chicago's Premier Fence Experts",
+      "heroSubline": "Durable fences built to withstand Chicago winters. Serving the city and suburbs with unwavering quality.",
+      "aboutTitle": "Built on Chicago Values",
+      "aboutText": [
+        "Pro Fence Company Chicago started with a simple goal: to provide reliable, long-lasting fences to our neighbors throughout the Chicago area. We're a family-owned business, rooted in the values of hard work, integrity, and community.",
+        "Our approach is straightforward: understand your needs, provide honest advice, and execute flawlessly. We don't cut corners, and we stand behind every fence we build. From initial consultation to final inspection, your satisfaction is our priority.",
+        "We're proud to be a part of the Chicago community. We source materials locally whenever possible, and we actively support local initiatives. When you choose Pro Fence Company Chicago, you're not just getting a fence; you're investing in your community."
+      ],
+      "valueProps": [
+        {
+          "title": "Unwavering Quality",
+          "description": "We use premium materials and proven techniques to ensure your fence stands the test of time."
+        },
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Our skilled team brings years of experience to every project, ensuring precision and attention to detail."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand Chicago's climate and housing styles, tailoring our solutions to your specific needs."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide clear, upfront quotes with no hidden fees or surprises."
+        }
+      ],
+      "ctaHeadline": "Protect Your Property Today",
+      "ctaSubline": "Get a free, no-obligation quote for your fence project. Call now!"
+    },
+    "services": [
+      {
+        "slug": "wood-fence-installation",
+        "name": "Wood Fence Installation",
+        "shortDescription": "Classic wood fences offering privacy and natural beauty to Chicago homes.",
+        "description": "We specialize in crafting durable and aesthetically pleasing wood fences that complement the architectural style of Chicago homes. From traditional picket fences to privacy fences, we offer a wide range of wood types and styles to suit your needs. Our experienced team ensures proper installation, considering Chicago's harsh weather conditions, including deep frost lines and strong winds. We use pressure-treated lumber and quality hardware to maximize longevity and minimize maintenance. Whether you're looking to enhance your property's curb appeal or create a secure backyard oasis, our wood fence installation services provide the perfect solution. We handle everything from permits to post-installation cleanup, ensuring a hassle-free experience for our customers. Our commitment to quality craftsmanship and customer satisfaction makes us the preferred choice for wood fence installation in Chicago and the surrounding suburbs. We can also custom-build gates to match your fence style and provide convenient access to your property. We understand the unique challenges of building fences in Chicago, and we're prepared to handle any obstacles that may arise.",
+        "process": [
+          "Consultation and Design: We discuss your needs and design a custom wood fence.",
+          "Material Selection: We help you choose the right wood and hardware.",
+          "Installation: Our skilled team installs your fence with precision.",
+          "Cleanup: We leave your property clean and tidy."
+        ],
+        "benefits": [
+          "Enhanced Privacy",
+          "Improved Curb Appeal",
+          "Increased Property Value",
+          "Natural Beauty"
+        ],
+        "faq": [
+          {
+            "question": "What type of wood is best for Chicago's climate?",
+            "answer": "Pressure-treated lumber, cedar, and redwood are excellent choices due to their resistance to rot and insects. We can advise you on the best option for your budget and aesthetic preferences."
+          },
+          {
+            "question": "How long will a wood fence last in Chicago?",
+            "answer": "With proper installation and maintenance, a wood fence can last 15-20 years or more."
+          },
+          {
+            "question": "Do I need a permit to build a wood fence in Chicago?",
+            "answer": "Yes, in most cases, a permit is required. We can handle the permit application process for you."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-fence-installation",
+        "name": "Vinyl Fence Installation",
+        "shortDescription": "Low-maintenance vinyl fences providing long-lasting security and style in Chicago.",
+        "description": "Vinyl fences offer a durable, low-maintenance alternative to wood, making them an ideal choice for Chicago homeowners. Our vinyl fence installation services provide a wide range of styles and colors to complement any property. Vinyl fences are resistant to rot, decay, and insect damage, ensuring years of worry-free performance. They also withstand Chicago's harsh weather conditions, including extreme temperatures and heavy snowfall. Our experienced installers ensure proper installation, paying close attention to detail and ensuring a secure and level fence line. We use high-quality vinyl materials that are UV-resistant and won't fade or discolor over time. From privacy fences to picket fences, we can customize your vinyl fence to meet your specific needs and preferences. We offer a variety of gate options to provide convenient access to your property. With minimal maintenance required, a vinyl fence is a smart investment that will enhance your property's value and curb appeal for years to come. We guarantee a clean and professional installation, leaving your property looking its best. Choose Pro Fence Company Chicago for vinyl fence installation you can trust.",
+        "process": [
+          "Site Assessment: We evaluate your property and discuss your needs.",
+          "Design Selection: We help you choose the perfect vinyl fence style.",
+          "Installation: Our expert team installs your fence efficiently.",
+          "Final Inspection: We ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Low Maintenance",
+          "Long-Lasting Durability",
+          "Weather Resistance",
+          "Variety of Styles"
+        ],
+        "faq": [
+          {
+            "question": "How long will a vinyl fence last in Chicago?",
+            "answer": "A well-installed vinyl fence can last 30 years or more in Chicago's climate."
+          },
+          {
+            "question": "Does vinyl fencing fade in the sun?",
+            "answer": "Our high-quality vinyl fencing is UV-resistant and designed to minimize fading."
+          },
+          {
+            "question": "Can I paint a vinyl fence?",
+            "answer": "While not recommended, vinyl fences can be painted with specialized paints designed for vinyl surfaces."
+          }
+        ]
+      },
+      {
+        "slug": "aluminum-fence-installation",
+        "name": "Aluminum Fence Installation",
+        "shortDescription": "Elegant aluminum fences offering security and style for Chicago homes and businesses.",
+        "description": "Aluminum fences combine security with aesthetic appeal, making them a popular choice for both residential and commercial properties in Chicago. Our aluminum fence installation services provide a variety of styles and colors to enhance your property's curb appeal. Aluminum fences are rust-resistant and require minimal maintenance, making them a practical choice for Chicago's climate. Our experienced installers ensure proper installation, paying close attention to detail and ensuring a secure and level fence line. We use high-quality aluminum materials that are powder-coated for added durability and weather resistance. From ornamental fences to pool fences, we can customize your aluminum fence to meet your specific needs and preferences. We offer a variety of gate options to provide convenient access to your property. An aluminum fence is an excellent investment that will add value and security to your property for years to come. We provide a clean and professional installation, leaving your property looking its best. Pro Fence Company Chicago is your trusted partner for aluminum fence installation.",
+        "process": [
+          "Consultation: We discuss your security and aesthetic needs.",
+          "Design: We create a custom aluminum fence design.",
+          "Installation: Our skilled team installs your fence with precision.",
+          "Inspection: We ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Enhanced Security",
+          "Low Maintenance",
+          "Rust Resistance",
+          "Elegant Design"
+        ],
+        "faq": [
+          {
+            "question": "Are aluminum fences strong enough for security?",
+            "answer": "Yes, aluminum fences provide a good level of security, especially when installed with proper gates and locking mechanisms."
+          },
+          {
+            "question": "Do aluminum fences require painting?",
+            "answer": "No, aluminum fences are powder-coated and do not require painting."
+          },
+          {
+            "question": "Can I install an aluminum fence around my pool?",
+            "answer": "Yes, aluminum fences are a popular choice for pool fencing due to their durability and safety features."
+          }
+        ]
+      },
+      {
+        "slug": "chain-link-fence-installation",
+        "name": "Chain Link Fence Installation",
+        "shortDescription": "Affordable and reliable chain link fences for security and boundary definition in Chicago.",
+        "description": "Chain link fences offer an economical and practical solution for security and boundary definition in Chicago. Our chain link fence installation services provide a durable and long-lasting barrier for residential, commercial, and industrial properties. Chain link fences are easy to maintain and can withstand Chicago's harsh weather conditions. Our experienced installers ensure proper installation, paying close attention to detail and ensuring a secure and level fence line. We use galvanized steel materials that are rust-resistant and provide years of reliable performance. From standard chain link fences to privacy fences with slats, we can customize your chain link fence to meet your specific needs and preferences. We offer a variety of gate options to provide convenient access to your property. A chain link fence is a cost-effective solution for securing your property and defining boundaries. We provide a clean and professional installation, leaving your property looking its best. Choose Pro Fence Company Chicago for chain link fence installation you can depend on.",
+        "process": [
+          "Site Survey: We assess your property and discuss your needs.",
+          "Material Selection: We choose the right chain link materials.",
+          "Installation: Our expert team installs your fence quickly and efficiently.",
+          "Quality Check: We ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Affordable Security",
+          "Easy Maintenance",
+          "Durable Construction",
+          "Clear Boundary Definition"
+        ],
+        "faq": [
+          {
+            "question": "How long will a chain link fence last in Chicago?",
+            "answer": "A well-installed chain link fence can last 20-30 years or more in Chicago's climate."
+          },
+          {
+            "question": "Can I add privacy to a chain link fence?",
+            "answer": "Yes, you can add privacy slats to a chain link fence to create a more secluded area."
+          },
+          {
+            "question": "Is chain link fencing easy to climb?",
+            "answer": "Chain link fencing can be challenging to climb, especially when installed with barbed wire or other security features."
+          }
+        ]
+      },
+      {
+        "slug": "fence-repair",
+        "name": "Fence Repair Services",
+        "shortDescription": "Prompt and reliable fence repair services to keep your Chicago fence strong and secure.",
+        "description": "Chicago's harsh winters and strong winds can take a toll on fences. Pro Fence Company Chicago provides comprehensive fence repair services to restore your fence's strength and appearance. Whether it's a broken post, damaged panel, or sagging gate, our experienced technicians can diagnose and repair any fence issue. We work with all types of fencing materials, including wood, vinyl, aluminum, and chain link. We use quality materials and proven techniques to ensure long-lasting repairs. We understand the importance of a secure and well-maintained fence, and we respond quickly to your repair needs. We offer free estimates and transparent pricing, so you know exactly what to expect. Don't let a damaged fence compromise your property's security and curb appeal. Contact Pro Fence Company Chicago for fast and reliable fence repair services. We'll get your fence back in top condition in no time, protecting your property and enhancing its value. We pride ourselves on our commitment to customer satisfaction and our ability to deliver exceptional results.",
+        "process": [
+          "Inspection: We assess the damage to your fence.",
+          "Quotation: We provide a detailed repair estimate.",
+          "Repair: Our skilled team repairs your fence efficiently.",
+          "Follow-up: We ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Restored Security",
+          "Enhanced Curb Appeal",
+          "Extended Fence Life",
+          "Cost-Effective Solution"
+        ],
+        "faq": [
+          {
+            "question": "How much does fence repair cost?",
+            "answer": "The cost of fence repair varies depending on the extent of the damage and the type of materials involved. We offer free estimates to provide you with an accurate quote."
+          },
+          {
+            "question": "How quickly can you repair my fence?",
+            "answer": "We strive to provide prompt service and can often schedule repairs within a few days of your request."
+          },
+          {
+            "question": "Do you offer emergency fence repair services?",
+            "answer": "Yes, we offer emergency fence repair services for situations that require immediate attention, such as storm damage or security breaches."
+          }
+        ]
+      },
+      {
+        "slug": "gate-installation-repair",
+        "name": "Gate Installation & Repair",
+        "shortDescription": "Secure and stylish gate solutions for homes and businesses throughout Chicago.",
+        "description": "A well-functioning gate is essential for security, convenience, and curb appeal. Pro Fence Company Chicago offers comprehensive gate installation and repair services for residential and commercial properties in Chicago. Whether you need a new gate installed or an existing gate repaired, our experienced technicians can handle the job with precision and expertise. We work with all types of gates, including wood, vinyl, aluminum, and chain link. We offer a wide range of gate styles and hardware options to suit your specific needs and preferences. Our gate installation services include proper alignment, secure latching mechanisms, and smooth operation. Our gate repair services address issues such as sagging, sticking, broken hinges, and damaged latches. We use quality materials and proven techniques to ensure long-lasting repairs. We understand the importance of a secure and reliable gate, and we're committed to providing exceptional service. Contact Pro Fence Company Chicago for all your gate installation and repair needs. We'll ensure your gate is functioning properly and enhancing your property's security and appearance.",
+        "process": [
+          "Consultation: We discuss your gate needs and preferences.",
+          "Installation/Repair: Our skilled team installs or repairs your gate.",
+          "Testing: We ensure smooth and secure gate operation.",
+          "Final Inspection: We ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Enhanced Security",
+          "Improved Convenience",
+          "Increased Curb Appeal",
+          "Reliable Operation"
+        ],
+        "faq": [
+          {
+            "question": "How much does gate installation cost?",
+            "answer": "The cost of gate installation varies depending on the type of gate, materials, and hardware involved. We offer free estimates to provide you with an accurate quote."
+          },
+          {
+            "question": "Can you automate my existing gate?",
+            "answer": "Yes, we can automate most existing gates with the addition of an automatic gate opener system."
+          },
+          {
+            "question": "What types of gate hardware do you offer?",
+            "answer": "We offer a wide range of gate hardware, including hinges, latches, locks, and handles, in various styles and finishes."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Naperville",
+        "slug": "naperville-il",
+        "state": "IL",
+        "content": "Pro Fence Company Chicago is proud to offer our expert fence installation and repair services to the residents of Naperville, IL. We understand that Naperville's upscale family homes, largely built between the 1970s and 2000s, require fences that are both aesthetically pleasing and built to last. Whether you're looking to enhance your property's curb appeal with a decorative fence or need a sturdy, secure fence for your family and pets, we have you covered.\n\nWe specialize in a variety of fencing materials, including wood, vinyl, aluminum, and chain-link, each carefully selected to withstand Naperville's harsh cold winters, complete with heavy snow and ice. Our experienced team will work with you to choose the perfect fence style and material to complement your home and meet your specific needs. We are committed to providing top-quality workmanship and exceptional customer service, ensuring your complete satisfaction.",
+        "localContext": "Naperville is known for its well-maintained properties and strong community feel, making it essential to have fencing that enhances the area's upscale aesthetic.",
+        "nearbyAreas": [
+          "Aurora",
+          "Plainfield",
+          "Downers Grove"
+        ]
+      },
+      {
+        "city": "Aurora",
+        "slug": "aurora-il",
+        "state": "IL",
+        "content": "Pro Fence Company Chicago is dedicated to providing top-notch fence solutions to the diverse neighborhoods of Aurora, IL. From the historic areas to the newer developments, we understand the unique fencing needs of Aurora's residents. Our team has the expertise to handle any fencing project, big or small.\n\nWe offer a wide range of fencing options to suit every property and budget, including wood, vinyl, aluminum, and chain-link. Understanding Aurora's climate, with harsh cold winters and heavy snow and ice, we ensure that our fences are built to endure the elements. We are committed to using only the highest quality materials and providing expert installation services to ensure your fence stands the test of time.",
+        "localContext": "Aurora boasts a diverse housing stock, requiring versatile fencing solutions to match the various architectural styles found throughout the city.",
+        "nearbyAreas": [
+          "Naperville",
+          "Oswego",
+          "Montgomery"
+        ]
+      },
+      {
+        "city": "Schaumburg",
+        "slug": "schaumburg-il",
+        "state": "IL",
+        "content": "Pro Fence Company Chicago is your trusted partner for all your fencing needs in Schaumburg, IL. We understand the unique characteristics of Schaumburg's 1970s and 80s suburban developments, and we're committed to providing fencing solutions that complement the established aesthetics of the area. We are dedicated to serving the community with reliable and affordable fencing services.\n\nOur comprehensive range of fencing options includes wood, vinyl, aluminum, and chain-link, allowing you to choose the perfect fence to enhance your property's curb appeal and provide security. Given Schaumburg's harsh cold winters with heavy snow and ice, we use durable materials and expert installation techniques to ensure your fence withstands the elements. We pride ourselves on our exceptional customer service and commitment to your satisfaction.",
+        "localContext": "Schaumburg's established suburban landscape requires fencing solutions that blend seamlessly with the existing neighborhood character.",
+        "nearbyAreas": [
+          "Palatine",
+          "Hoffman Estates",
+          "Rolling Meadows"
+        ]
+      },
+      {
+        "city": "Evanston",
+        "slug": "evanston-il",
+        "state": "IL",
+        "content": "Pro Fence Company Chicago proudly serves the historic community of Evanston, IL. We understand the unique character of Evanston's neighborhoods, particularly the beautiful 1890s-1930s homes near Northwestern University. Our team is experienced in working with Evanston's older properties and providing fencing solutions that respect their architectural heritage.\n\nWe offer a variety of fencing styles and materials to complement Evanston's historic homes, including wood, wrought iron, and vinyl. Understanding Evanston's climate, with harsh cold winters and heavy snow and ice, we use durable materials and expert installation techniques to ensure your fence stands the test of time. We are committed to providing exceptional customer service and preserving the beauty of Evanston's historic neighborhoods.",
+        "localContext": "Evanston's rich architectural history demands fencing solutions that are both aesthetically pleasing and respectful of the past.",
+        "nearbyAreas": [
+          "Chicago",
+          "Skokie",
+          "Wilmette"
+        ]
+      },
+      {
+        "city": "Arlington Heights",
+        "slug": "arlington-heights-il",
+        "state": "IL",
+        "content": "Pro Fence Company Chicago is your local expert for all fencing needs in Arlington Heights, IL. We understand the unique characteristics of Arlington Heights' established ranch homes, built primarily in the 1950s-70s. We are dedicated to serving the community with reliable and affordable fencing services tailored to the area's specific needs.\n\nOur comprehensive range of fencing options includes wood, vinyl, aluminum, and chain-link, allowing you to choose the perfect fence to enhance your property's curb appeal and provide security. Given Arlington Heights' harsh cold winters with heavy snow and ice, we use durable materials and expert installation techniques to ensure your fence withstands the elements. We pride ourselves on our exceptional customer service and commitment to your satisfaction.",
+        "localContext": "Arlington Heights' classic ranch-style homes benefit from fencing that enhances their curb appeal while maintaining their established character.",
+        "nearbyAreas": [
+          "Mount Prospect",
+          "Rolling Meadows",
+          "Palatine"
+        ]
+      },
+      {
+        "city": "Bolingbrook",
+        "slug": "bolingbrook-il",
+        "state": "IL",
+        "content": "Pro Fence Company Chicago is your trusted provider for fence installation and repair services in Bolingbrook, IL. We recognize the diverse needs of Bolingbrook residents and offer a wide range of fencing solutions to meet them. Whether you need a fence for privacy, security, or to enhance the aesthetics of your property, we are here to help.\n\nWe offer various fence styles, including wood, vinyl, and chain-link, ensuring we have the perfect option for your needs and budget. Understanding Bolingbrook's climate, with harsh cold winters and heavy snow and ice, we ensure that our fences are built to handle the elements. Our team is committed to providing quality workmanship and exceptional customer service.",
+        "localContext": "Bolingbrook's mix of residential and commercial properties requires diverse fencing solutions for privacy, security, and aesthetic appeal.",
+        "nearbyAreas": [
+          "Romeoville",
+          "Naperville",
+          "Woodridge"
+        ]
+      },
+      {
+        "city": "Joliet",
+        "slug": "joliet-il",
+        "state": "IL",
+        "content": "Pro Fence Company Chicago is pleased to offer professional fence services to the residents of Joliet, IL. We understand the unique needs of Joliet's diverse neighborhoods and are committed to providing high-quality fencing solutions to enhance your property.\n\nWe install a variety of fences, including wood, vinyl, aluminum, and chain-link, to suit any style and budget. Joliet experiences harsh cold winters with heavy snow and ice, so we ensure that our fences are built to withstand the weather. Our team is dedicated to providing reliable service and exceptional results.",
+        "localContext": "Joliet's blend of historic and modern architecture calls for fencing solutions that complement the city's varied aesthetic.",
+        "nearbyAreas": [
+          "Crest Hill",
+          "Romeoville",
+          "Plainfield"
+        ]
+      },
+      {
+        "city": "Skokie",
+        "slug": "skokie-il",
+        "state": "IL",
+        "content": "Pro Fence Company Chicago is proud to serve the community of Skokie, IL, with top-quality fence installation and repair services. We recognize that Skokie residents value both functionality and aesthetics, and we strive to provide fencing solutions that meet both needs. We are dedicated to delivering exceptional results and customer satisfaction.\n\nWe offer a wide range of fencing options, including wood, vinyl, aluminum, and chain-link, to complement any property style. Skokie experiences harsh cold winters with heavy snow and ice, so we ensure that our fences are built to withstand the weather. Our team is dedicated to providing reliable service and exceptional results.",
+        "localContext": "Skokie's well-maintained properties and community focus make it essential to have fencing that enhances the area's appeal.",
+        "nearbyAreas": [
+          "Evanston",
+          "Morton Grove",
+          "Niles"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Wood Fence Installation",
+        "text": "Pro Fence Company Chicago did an amazing job installing my new wood fence! The team was professional, efficient, and the fence looks beautiful. They even cleaned up everything afterwards. Highly recommend!",
+        "date": "2025-05-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Chain Link Fence Installation",
+        "text": "I needed a chain link fence installed quickly for my business, and Pro Fence Company Chicago delivered. The price was fair, and the installation was fast and efficient. Good service overall.",
+        "date": "2025-04-22"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Vinyl Fence Installation",
+        "text": "The vinyl fence installed by Pro Fence Company Chicago has completely transformed my backyard! It's beautiful, sturdy, and requires no maintenance. The installers were polite and professional. I am very happy with the results.",
+        "date": "2025-03-10"
+      },
+      {
+        "name": "Robert M.",
+        "rating": 5,
+        "service": "Fence Repair Services",
+        "text": "After a bad storm, my fence was severely damaged. Pro Fence Company Chicago came out quickly and repaired it perfectly. They were professional, efficient, and the price was very reasonable. Great service!",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Susan P.",
+        "rating": 4,
+        "service": "Gate Installation & Repair",
+        "text": "Had a new gate installed by Pro Fence Company Chicago. The quality of the work is excellent, and the gate looks great. There was a small delay in scheduling, but overall, I'm very satisfied.",
+        "date": "2025-01-17"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Aluminum Fence Installation",
+        "text": "Pro Fence Company Chicago installed an aluminum fence around my pool, and it looks fantastic. The team was professional, and the fence is exactly what I wanted. I highly recommend their services.",
+        "date": "2024-12-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Pro Fence Company Chicago | Expert Fence Contractor",
+        "description": "Chicago's top fence contractor. Wood, vinyl, aluminum, chain link. Installation and repair services. Free quotes!"
+      },
+      "about": {
+        "title": "About Pro Fence Company Chicago",
+        "description": "Learn about Pro Fence Company Chicago, our values, and our commitment to quality fence installation and repair services in Chicago."
+      },
+      "services": {
+        "title": "Fence Installation & Repair Services | Chicago",
+        "description": "Professional fence installation and repair services in Chicago. Wood, vinyl, aluminum, chain link. Free estimates. Call today!"
+      },
+      "contact": {
+        "title": "Contact Pro Fence Company Chicago",
+        "description": "Contact Pro Fence Company Chicago for free fence installation and repair quotes in Chicago. Call us today!"
+      },
+      "reviews": {
+        "title": "Pro Fence Company Chicago Reviews",
+        "description": "Read reviews from satisfied customers of Pro Fence Company Chicago. Quality fence installation and repair services in Chicago."
+      },
+      "service-areas": {
+        "title": "Fence Services in Chicago Suburbs",
+        "description": "Pro Fence Company Chicago provides fence installation and repair services in Chicago and surrounding suburbs. Get a free quote!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "wood-fence-installation": "/images/service-wood-fence-installation.webp",
+      "vinyl-fence-installation": "/images/service-vinyl-fence-installation.webp",
+      "aluminum-fence-installation": "/images/service-aluminum-fence-installation.webp",
+      "chain-link-fence-installation": "/images/service-chain-link-fence-installation.webp",
+      "fence-repair": "/images/service-fence-repair.webp",
+      "gate-installation-repair": "/images/service-gate-installation-repair.webp"
+    },
+    "servicesResponsive": {
+      "wood-fence-installation": {
+        "src": "/images/service-wood-fence-installation.webp",
+        "srcset": "/images/service-wood-fence-installation-400w.webp 400w, /images/service-wood-fence-installation-800w.webp 800w, /images/service-wood-fence-installation-1200w.webp 1200w, /images/service-wood-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-fence-installation": {
+        "src": "/images/service-vinyl-fence-installation.webp",
+        "srcset": "/images/service-vinyl-fence-installation-400w.webp 400w, /images/service-vinyl-fence-installation-800w.webp 800w, /images/service-vinyl-fence-installation-1200w.webp 1200w, /images/service-vinyl-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "aluminum-fence-installation": {
+        "src": "/images/service-aluminum-fence-installation.webp",
+        "srcset": "/images/service-aluminum-fence-installation-400w.webp 400w, /images/service-aluminum-fence-installation-800w.webp 800w, /images/service-aluminum-fence-installation-1200w.webp 1200w, /images/service-aluminum-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "chain-link-fence-installation": {
+        "src": "/images/service-chain-link-fence-installation.webp",
+        "srcset": "/images/service-chain-link-fence-installation-400w.webp 400w, /images/service-chain-link-fence-installation-800w.webp 800w, /images/service-chain-link-fence-installation-1200w.webp 1200w, /images/service-chain-link-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-repair": {
+        "src": "/images/service-fence-repair.webp",
+        "srcset": "/images/service-fence-repair-400w.webp 400w, /images/service-fence-repair-800w.webp 800w, /images/service-fence-repair-1200w.webp 1200w, /images/service-fence-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gate-installation-repair": {
+        "src": "/images/service-gate-installation-repair.webp",
+        "srcset": "/images/service-gate-installation-repair-400w.webp 400w, /images/service-gate-installation-repair-800w.webp 800w, /images/service-gate-installation-repair-1200w.webp 1200w, /images/service-gate-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
